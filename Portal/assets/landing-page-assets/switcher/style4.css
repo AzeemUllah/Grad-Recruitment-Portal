@@ -1,0 +1,27 @@
+#style-switcher h2 a {
+    background: #069A97 none repeat scroll 0 0
+}
+
+
+.menu-bg .mainmenu .navbar-nav li a:hover, .slider-control, .about-text h2, .service-icon i, .single-service.single-service:hover h4, .single-project-complete h2, .team-social ul li a, .testi-name h2, .pricing-header i, .plan-price p, .contact-icon i, .footer-social-link ul li a, .slider-control:hover, .mainmenu .navbar-nav li a:hover{
+    color: #069A97;
+}
+
+a.slide-btn, a.read-more, .call-to-area-text a, a.plan-more, .contact-form input[type="submit"] {
+	border: 1px solid #069A97;
+	background-color: #069A97;
+}
+.section-title h2::before, .scrollup, .dot1, .carousel-indicators li, a.slide-btn.other-btn:hover{
+	background: #069A97;
+}
+
+.team-description {
+	border-top: 2px solid #069A97;
+}
+
+.pricing-box:hover a.plan-more, a.read-more:hover, .call-to-area-text a:hover, a.read-more:hover, .contact-form input[type="submit"]:hover, a.slide-btn:hover{
+	border: 1px solid #069A97;
+}
+.form-control:focus {
+	border-color: #069A97;
+}
